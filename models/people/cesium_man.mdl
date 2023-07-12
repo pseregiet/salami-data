@@ -1,0 +1,11 @@
+{
+"meshes": [
+    "people/Cesium_Man"
+],
+"materials": [
+],
+"skin": "people/Armature",
+"animations": [
+    "people/cesium_man/Anim_0"
+]
+}

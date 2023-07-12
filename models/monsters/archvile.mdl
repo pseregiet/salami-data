@@ -1,0 +1,13 @@
+{
+"meshes": [
+    "monsters/archvile_mesh",
+    "monsters/archvile_hand_mesh"
+],
+"materials": [
+    ["monsters/archvile", "monsters/archvile_hands"]
+],
+"skin": "monsters/mesh_MD5_Armature",
+"animations": [
+    "monsters/attack1"
+]
+}

@@ -1,0 +1,4 @@
+{
+"meshes": [ "props/corset" ],
+"materials": [ ["props/corset"] ]
+}

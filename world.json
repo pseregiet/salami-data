@@ -1,0 +1,10 @@
+{
+"skined_objs":[
+    {"model": "monsters/archvile", "pos": [90,  350, 580], "rot": [90, 0, 0.0], "scl": [1.0, 1.0, 1.0]},
+    {"model": "monsters/archvile", "pos": [300,  350, 580], "rot": [0, 90.0, 0.0], "scl": [1.0, 1.0, 1.0]},
+    {"model": "people/cesium_man", "pos": [-100,  350, 580], "rot": [90, 0, 0], "scl": [1.0, 1.0, 1.0]}
+],
+"static_objs":[
+    {"model": "props/corset", "pos": [-200.0, 200.0, 500.0], "scl": [10.0, 10.0, 10.0]}
+]
+}
